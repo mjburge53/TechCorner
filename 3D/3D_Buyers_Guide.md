@@ -2,7 +2,9 @@
 
 ## When buying your first 3D printer, there are several key factors to consider.
 
-Budget: 3D printers range in price from a few hundred to several thousand dollars. Determine how much you're willing to spend.
+### Budget
+
+1. 3D printers range in price from a few hundred to several thousand dollars. Determine how much you're willing to spend.
 
 ### Print Technology
 
